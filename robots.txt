@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://srv-d83k5drtqb8s73drgq5g.onrender.com/sitemap.xml
